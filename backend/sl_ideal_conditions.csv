@@ -1,0 +1,101 @@
+crop_name,category,district,agro_zone,N,P,K,temperature,ph,rainfall
+Paddy (Samba),Cereals,Polonnaruwa,Dry Zone,90,42,43,28.5,6.8,1400
+Paddy (Nadu),Cereals,Anuradhapura,Dry Zone,90,40,40,29.0,6.5,1300
+Paddy (Suwandel),Cereals,Kurunegala,Intermediate Zone,70,35,35,27.5,6.2,1800
+Paddy (Kalu Heenati),Cereals,Kalutara,Low Country Wet Zone,60,30,30,28.0,5.8,2500
+Maize,Cereals,Moneragala,Dry Zone,70,50,40,28.5,6.5,1200
+Kurakkan (Finger Millet),Cereals,Hambantota,Dry Zone,40,30,30,29.5,7.0,1000
+Sorghum,Cereals,Anuradhapura,Dry Zone,30,25,20,30.0,6.8,950
+Foxtail Millet (Thana),Cereals,Jaffna,Dry Zone,25,20,20,29.0,7.2,1000
+Green Gram (Mung Bean),Pulses,Hambantota,Dry Zone,15,30,20,29.0,6.8,1000
+Cowpea,Pulses,Ampara,Dry Zone,15,30,20,28.5,6.5,1200
+Black Gram (Udu),Pulses,Vavuniya,Dry Zone,15,35,20,29.0,6.8,1100
+Groundnut (Peanut),Pulses,Mullaitivu,Dry Zone,20,40,30,28.5,6.5,1200
+Sesame (Thala),Oilseeds,Mannar,Dry Zone,20,25,20,30.0,7.2,900
+Soyabean,Pulses,Anuradhapura,Dry Zone,25,40,30,28.0,6.5,1300
+Potato,Vegetables (Up-Country),Nuwara Eliya,Up Country Wet Zone,50,65,60,16.5,5.5,2200
+Carrot,Vegetables (Up-Country),Nuwara Eliya,Up Country Wet Zone,35,55,45,16.0,6.0,2100
+Beetroot,Vegetables (Up-Country),Nuwara Eliya,Up Country Wet Zone,40,50,50,17.0,6.2,2000
+Cabbage,Vegetables (Up-Country),Badulla,Up Country Intermediate Zone,35,45,40,20.0,6.0,1800
+Leeks,Vegetables (Up-Country),Nuwara Eliya,Up Country Wet Zone,40,50,45,15.5,5.8,2300
+Cauliflower,Vegetables (Up-Country),Nuwara Eliya,Up Country Wet Zone,45,55,50,16.0,6.0,2000
+Knol Khol,Vegetables (Up-Country),Badulla,Up Country Intermediate Zone,30,40,35,19.0,6.2,1700
+Beans (Green),Vegetables (Up-Country),Kandy,Mid Country Wet Zone,25,45,35,23.0,6.0,2000
+Butter Beans,Vegetables (Up-Country),Nuwara Eliya,Up Country Wet Zone,30,50,40,17.0,5.8,2100
+Radish,Vegetables (Up-Country),Badulla,Up Country Intermediate Zone,25,35,30,21.0,6.2,1600
+Bell Pepper (Capsicum),Vegetables (Up-Country),Kandy,Mid Country Wet Zone,50,60,50,22.0,6.3,1900
+Tomato,Vegetables (Low-Country),Matale,Mid Country Intermediate Zone,100,75,50,26.0,6.5,1600
+Brinjal (Eggplant),Vegetables (Low-Country),Jaffna,Dry Zone,80,55,55,29.0,7.0,1200
+Chilli (Green),Vegetables (Low-Country),Anuradhapura,Dry Zone,90,60,50,28.5,6.5,1300
+Red Onion,Vegetables (Low-Country),Jaffna,Dry Zone,45,55,50,29.5,7.5,1100
+Big Onion,Vegetables (Low-Country),Dambulla/Matale,Mid Country Intermediate Zone,50,60,55,27.0,6.8,1400
+Ladies Finger (Okra),Vegetables (Low-Country),Kurunegala,Intermediate Zone,40,35,30,28.0,6.5,1700
+Snake Gourd (Pudalangai),Vegetables (Low-Country),Gampaha,Low Country Wet Zone,35,30,35,28.0,6.2,2300
+Bitter Gourd (Pavakkai),Vegetables (Low-Country),Colombo,Low Country Wet Zone,35,35,40,28.0,6.2,2400
+Ridge Gourd (Peerkangai),Vegetables (Low-Country),Kalutara,Low Country Wet Zone,30,30,35,27.5,6.0,2600
+Bottle Gourd,Vegetables (Low-Country),Puttalam,Dry Zone,30,25,30,29.0,6.8,1100
+Pumpkin,Vegetables (Low-Country),Hambantota,Dry Zone,35,35,40,29.0,7.0,1000
+Manioc (Cassava),Tubers,Batticaloa,Dry Zone,30,30,50,29.0,6.5,1300
+Sweet Potato,Tubers,Galle,Low Country Wet Zone,25,35,45,27.5,5.8,2400
+Inji Yams (Kiri Ala),Tubers,Ratnapura,Low Country Wet Zone,30,40,50,27.0,5.5,2800
+Kohila,Vegetables (Low-Country),Gampaha,Low Country Wet Zone,20,20,20,28.0,6.0,2300
+Gotukola,Leafy Greens,Colombo,Low Country Wet Zone,40,20,20,28.0,6.2,2400
+Mukunuwenna,Leafy Greens,Gampaha,Low Country Wet Zone,45,25,25,28.0,6.3,2300
+Kangkung,Leafy Greens,Kalutara,Low Country Wet Zone,50,25,30,27.5,6.0,2500
+Thampala (Amaranth),Leafy Greens,Jaffna,Dry Zone,40,30,30,29.0,7.0,1200
+Drumstick (Murunga),Vegetables (Low-Country),Jaffna,Dry Zone,20,25,25,30.0,7.5,1000
+Banana (Embul),Fruits,Ratnapura,Low Country Wet Zone,100,70,120,27.0,5.5,2900
+Banana (Kolikuttu),Fruits,Kurunegala,Intermediate Zone,105,72,125,28.0,6.5,1800
+Banana (Seeni),Fruits,Hambantota,Dry Zone,95,65,115,29.0,7.0,1100
+Banana (Rath Kehel),Fruits,Kandy,Mid Country Wet Zone,110,75,130,24.5,6.0,2000
+Mango (Karthakolomban),Fruits,Jaffna,Dry Zone,20,35,30,29.0,7.2,1100
+Mango (Villard),Fruits,Anuradhapura,Dry Zone,20,35,30,28.5,6.8,1300
+Pineapple (Mauritius),Fruits,Gampaha,Low Country Wet Zone,30,35,70,28.0,5.5,2200
+Pineapple (Kew),Fruits,Gampaha,Low Country Wet Zone,35,40,75,28.0,5.5,2200
+Papaya (Red Lady),Fruits,Hambantota,Dry Zone,30,30,30,29.0,6.8,1100
+Rambutan,Fruits,Gampaha,Low Country Wet Zone,35,40,45,28.0,6.2,2300
+Mangosteen,Fruits,Kalutara,Low Country Wet Zone,25,30,35,27.5,5.8,2700
+Durian,Fruits,Kandy,Mid Country Wet Zone,40,40,50,25.0,6.0,2100
+Passion Fruit,Fruits,Nuwara Eliya,Up Country Wet Zone,25,35,40,18.0,5.8,2200
+Guava (Pubudu),Fruits,Puttalam,Dry Zone,30,30,35,29.0,6.8,1200
+Lime (Elumichai),Fruits,Moneragala,Dry Zone,30,35,40,28.5,6.5,1400
+King Coconut (Thambili),Fruits,Colombo,Low Country Wet Zone,20,20,35,28.0,6.2,2400
+Woodapple (Divul),Fruits,Hambantota,Dry Zone,15,20,20,29.5,7.2,950
+Dragon Fruit,Fruits,Puttalam,Dry Zone,25,30,40,29.0,6.8,1100
+Grapes,Fruits,Jaffna,Dry Zone,25,35,50,29.5,7.5,1000
+Avocado,Fruits,Kandy,Mid Country Wet Zone,35,40,45,24.0,6.0,2000
+Soursop (Anona),Fruits,Galle,Low Country Wet Zone,20,25,30,27.5,5.8,2400
+Jackfruit (Kos/Waraka),Fruits,Kurunegala,Intermediate Zone,25,30,35,28.0,6.5,1700
+Breadfruit (Del),Fruits,Kalutara,Low Country Wet Zone,25,25,30,27.5,5.8,2600
+Pomegranate,Fruits,Puttalam,Dry Zone,25,30,35,29.0,7.0,1000
+Star Fruit (Kamaranga),Fruits,Ratnapura,Low Country Wet Zone,20,20,25,27.0,5.5,2800
+Strawberry,Fruits,Nuwara Eliya,Up Country Wet Zone,30,40,45,15.0,5.5,2200
+Mandarin Orange,Fruits,Badulla,Up Country Intermediate Zone,30,40,40,21.0,6.0,1800
+Cashew,Nuts,Puttalam,Dry Zone,20,25,25,29.0,6.5,1200
+Cinnamon (Kurundu),Spices,Galle,Low Country Wet Zone,20,25,30,27.5,5.5,2500
+Black Pepper,Spices,Matale,Mid Country Intermediate Zone,40,30,50,26.0,6.2,1600
+Cardamom,Spices,Kandy,Mid Country Wet Zone,20,25,35,22.0,5.8,2200
+Clove (Karambu),Spices,Kegalle,Mid Country Wet Zone,30,35,40,26.5,6.0,2400
+Nutmeg (Jathikkai),Spices,Kegalle,Mid Country Wet Zone,30,35,40,26.5,6.0,2400
+Ginger,Spices,Kurunegala,Intermediate Zone,40,40,50,27.5,6.2,1800
+Turmeric (Manjal),Spices,Gampaha,Low Country Wet Zone,35,35,45,28.0,6.0,2200
+Vanilla,Spices,Kandy,Mid Country Wet Zone,20,20,25,24.0,6.0,2000
+Goraka (Garcinia),Spices,Ratnapura,Low Country Wet Zone,20,20,25,27.0,5.5,2800
+Tamarind (Puli),Spices,Mannar,Dry Zone,15,20,20,30.0,7.5,900
+Arecanut (Paakku),Commercial,Kegalle,Mid Country Wet Zone,25,25,30,26.5,6.0,2400
+Betel Leaf (Vetrilai),Commercial,Gampaha,Low Country Wet Zone,40,30,35,28.0,6.2,2200
+Tea (High Grown),Beverage,Nuwara Eliya,Up Country Wet Zone,25,120,190,16.0,4.8,2400
+Tea (Medium Grown),Beverage,Kandy,Mid Country Wet Zone,25,115,185,24.0,5.0,2100
+Tea (Low Grown),Beverage,Ratnapura,Low Country Wet Zone,25,110,180,27.0,5.2,2800
+Coffee (Robusta),Beverage,Kegalle,Mid Country Wet Zone,30,35,40,26.0,6.0,2300
+Coffee (Arabica),Beverage,Nuwara Eliya,Up Country Wet Zone,30,40,40,18.0,5.8,2100
+Cocoa,Beverage,Matale,Mid Country Intermediate Zone,25,30,35,26.0,6.2,1600
+Rubber,Plantation,Kalutara,Low Country Wet Zone,30,30,40,27.5,5.5,2800
+Coconut,Plantation,Kurunegala,Intermediate Zone,20,20,30,28.0,6.5,1800
+Sugarcane,Plantation,Moneragala,Dry Zone,100,50,80,28.5,6.5,1400
+Palmyra,Plantation,Jaffna,Dry Zone,15,15,20,29.5,7.5,1000
+Tobacco,Cash Crop,Jaffna,Dry Zone,50,40,60,29.5,7.2,1100
+Citronella,Aromatic,Matara,Low Country Wet Zone,20,20,20,27.5,6.0,2200
+Lemongrass,Aromatic,Badulla,Up Country Intermediate Zone,20,20,20,22.0,6.2,1700
+Kithul Palm,Commercial,Ratnapura,Low Country Wet Zone,20,20,20,27.0,5.5,2900
+Oil Palm,Plantation,Kalutara,Low Country Wet Zone,80,40,120,27.5,5.2,2800
